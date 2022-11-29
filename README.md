@@ -1,7 +1,5 @@
 # BTU_BLM0364_Tanks_War_PROJECT
 
-SCPIPTLERLE BİRLİKTE ASSETLERİ OLAN TÜM DOSYANIN GOOGLE DRIVE LINKI:  https://drive.google.com/file/d/1mHEhIZBbPycVDunnPphA_c2CwoO7Bhbq/view?usp=sharing 
-
 ## NASIL OYNANIR?
 
 Oyun vize projesi 2 kişilik tank oyunu
