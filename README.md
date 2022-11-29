@@ -2,7 +2,7 @@
 
 SCPIPTLERLE BİRLİKTE ASSETLERİ OLAN TÜM DOSYANIN GOOGLE DRIVE LINKI:  https://drive.google.com/file/d/1mHEhIZBbPycVDunnPphA_c2CwoO7Bhbq/view?usp=sharing 
 
-#NASIL OYNANIR?
+# NASIL OYNANIR?
 
 Oyun vize projesi 2 kişilik tank oyunu
 Oyunda her oyuncuya 3 can hakkı veriliyor.
