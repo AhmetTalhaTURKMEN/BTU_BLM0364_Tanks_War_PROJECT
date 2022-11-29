@@ -26,12 +26,16 @@ Oyunda 2 çeşit buffer mevcut:
 
 ### 1.OYUNCU
 W-A-S-D  -->  HAREKET  TUŞLARI 
+
 Q-E    --> TARET DÖNDÜRME
+
 SPACE(BOŞLUK) --> ATEŞ ETME
 
 ### 2.OYUNCU
 İLERİ -GERİ -SAĞ-SOL  YÖN TUŞLARI--> HAREKET TUŞLARI
+
 NUMPAD 1 - NUMPAD 3 TUŞLARI --> TARET DÖNDÜRME
+
 NUMPAD 2 --> ATEŞ ETME 
 
 ## GELİŞTİRDİĞİM KISIMLAR
