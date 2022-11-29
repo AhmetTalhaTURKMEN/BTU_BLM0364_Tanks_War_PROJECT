@@ -12,6 +12,7 @@ Tanklar oyuna başlarken 7 birim hızla başlıyor .
 Oyunda 2 çeşit buffer mevcut:
 
   -Birincisi tankı hızlandırma (her bufferda 5 birim hızlanma)
+  
   -İkincisi Can artırma 
   
 ## OYUN İÇİ GÖRSELLER 
