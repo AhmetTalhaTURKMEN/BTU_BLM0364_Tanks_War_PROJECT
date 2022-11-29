@@ -13,7 +13,7 @@ Oyunda 2 çeşit buffer mevcut:
   -Birincisi tankı hızlandırma (her bufferda 5 birim hızlanma)
   -İkincisi Can artırma 
   
-  OYUN İÇİ GÖRSELLER 
+## OYUN İÇİ GÖRSELLER 
 
 ![tankswar_screenshoot](https://user-images.githubusercontent.com/75940377/204498407-43168a44-88c7-4cd2-9803-4fbcfffbfda3.png)
 ![green-won](https://user-images.githubusercontent.com/75940377/204498386-90d8e7b5-02a9-4692-aff2-00e9dac0f61b.png)
@@ -37,7 +37,7 @@ NUMPAD 2 -->2. OYUNCU İÇİN ATEŞ ETME
 Pause Script , BufferSpawner , Bullet
 
 
-OYUN LİNKİ
+## OYUN LİNKİ
 https://ahmet-talha-turkmen.itch.io/tanks-war
 
 ## OYUNDA KULLANILAN ASSETLERİN LİNKLERİ
