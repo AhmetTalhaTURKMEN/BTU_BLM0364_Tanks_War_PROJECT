@@ -19,7 +19,7 @@ Oyunda 2 çeşit buffer mevcut:
 ![green-won](https://user-images.githubusercontent.com/75940377/204498386-90d8e7b5-02a9-4692-aff2-00e9dac0f61b.png)
 
 
-TUŞLAR 
+## TUŞLAR 
 
 W-A-S-D  --> 1.OYUNCU İÇİN HAREKET  TUŞLARI 
 Q-E    --> 1. OYUNCU İÇİN TARET DÖNDÜRME
@@ -30,15 +30,17 @@ SPACE(BOŞLUK) -->1. OYUNCU İÇİN  ATEŞ ETME
 NUMPAD 1 - NUMPAD 3 TUŞLARI --> 2.. OYUNCU İÇİN TARET DÖNDÜRME
 NUMPAD 2 -->2. OYUNCU İÇİN ATEŞ ETME 
 
-GELİŞTİRDİĞİM KISIMLAR
+## GELİŞTİRDİĞİM KISIMLAR
 
-2. OYUNCUNUN YAPTIĞI HAREKET SCRIPTLERİ
-2. OYUNCUNUN TEXT SCRIPTLERİ
+1. OYUNCUNUN YAPTIĞI HAREKET SCRIPTLERİ
+1. OYUNCUNUN TEXT SCRIPTLERİ
+Pause Script , BufferSpawner , Bullet
+
 
 OYUN LİNKİ
 https://ahmet-talha-turkmen.itch.io/tanks-war
 
-OYUNDA KULLANILAN ASSETLERİN LİMKLERİ
+## OYUNDA KULLANILAN ASSETLERİN LİNKLERİ
 
 tank asset: https://www.turbosquid.com/3d-models/tank-model-1684359
 
