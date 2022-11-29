@@ -15,9 +15,9 @@ Oyunda 2 çeşit buffer mevcut:
   
 ## OYUN İÇİ GÖRSELLER 
 
-![tankswar_screenshoot](https://user-images.githubusercontent.com/75940377/204498407-43168a44-88c7-4cd2-9803-4fbcfffbfda3.png)
-![green-won](https://user-images.githubusercontent.com/75940377/204498386-90d8e7b5-02a9-4692-aff2-00e9dac0f61b.png)
+![tankswar_screenshoot](https://user-images.githubusercontent.com/75725469/204571904-b1854d5a-b019-4806-8e57-8af9b9e49a25.png)
 
+![green-won](https://user-images.githubusercontent.com/75725469/204571934-58ba6ee5-26a3-42f8-80d5-3916888f76b5.png)
 
 ## TUŞLAR 
 
