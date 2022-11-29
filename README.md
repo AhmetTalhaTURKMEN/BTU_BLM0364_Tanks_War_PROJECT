@@ -1,6 +1,8 @@
 # BTU_BLM0364_Tanks_War_PROJECT
 
-NASIL OYNANIR?
+SCPIPTLERLE BİRLİKTE ASSETLERİ OLAN TÜM DOSYANIN GOOGLE DRIVE LINKI:  https://drive.google.com/file/d/1mHEhIZBbPycVDunnPphA_c2CwoO7Bhbq/view?usp=sharing 
+
+#NASIL OYNANIR?
 
 Oyun vize projesi 2 kişilik tank oyunu
 Oyunda her oyuncuya 3 can hakkı veriliyor.
@@ -48,4 +50,4 @@ tree asset: https://www.turbosquid.com/3d-models/3d-model-tree-collection-198072
 
 explosion animation : https://github.com/Tvtig/RocketLauncher/blob/main/Assets/Tvtig/Rocket%20Launcher/Art/Textures/Explosion/Explosion.tif
 
-SCPIPTLERLE BİRLİKTE ASSETLERİ OLAN TÜM DOSYANIN GOOGLE DRIVE LINKI:  https://drive.google.com/file/d/1mHEhIZBbPycVDunnPphA_c2CwoO7Bhbq/view?usp=sharing 
+
