@@ -2,7 +2,7 @@
 
 SCPIPTLERLE BİRLİKTE ASSETLERİ OLAN TÜM DOSYANIN GOOGLE DRIVE LINKI:  https://drive.google.com/file/d/1mHEhIZBbPycVDunnPphA_c2CwoO7Bhbq/view?usp=sharing 
 
-# NASIL OYNANIR?
+## NASIL OYNANIR?
 
 Oyun vize projesi 2 kişilik tank oyunu
 Oyunda her oyuncuya 3 can hakkı veriliyor.
@@ -10,6 +10,7 @@ Oyuncular birbirine ateş ederek canlarını sıfır yapana kadar devam ediyor.
 Her oyuncu için  5 saniyede  bir ateş etme hakkı mevcuttur.
 Tanklar oyuna başlarken 7 birim hızla başlıyor .
 Oyunda 2 çeşit buffer mevcut:
+
   -Birincisi tankı hızlandırma (her bufferda 5 birim hızlanma)
   -İkincisi Can artırma 
   
