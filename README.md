@@ -36,9 +36,9 @@ NUMPAD 2 --> ATEŞ ETME
 
 ## GELİŞTİRDİĞİM KISIMLAR
 
-1. OYUNCUNUN YAPTIĞI HAREKET SCRIPTLERİ
-1. OYUNCUNUN TEXT SCRIPTLERİ
-Pause Script , BufferSpawner , Bullet
+1. OYUNCUNUN YAPTIĞI HAREKET SCRIPTLERİ , TEXT SCRIPTLERİ
+ 
+Pause Script , BufferSpawner , Bullet , Wontext
 
 
 ## OYUN LİNKİ
