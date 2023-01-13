@@ -36,13 +36,6 @@ NUMPAD 1 - NUMPAD 3 TUŞLARI --> TARET DÖNDÜRME
 
 NUMPAD 2 --> ATEŞ ETME 
 
-## GELİŞTİRDİĞİM KISIMLAR
-
-1.OYUNCUNUN YAPTIĞI HAREKET SCRIPTLERİ , TEXT SCRIPTLERİ
- 
-Pause Script, BufferSpawner Script, Buffer Script, Bullet Script, Wontext Script
-
-
 ## OYUN LİNKİ
 https://ahmet-talha-turkmen.itch.io/tanks-war
 
