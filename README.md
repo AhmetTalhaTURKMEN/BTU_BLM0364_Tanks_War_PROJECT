@@ -53,7 +53,7 @@ tree asset: https://www.turbosquid.com/3d-models/3d-model-tree-collection-198072
 
 explosion animation: https://github.com/Tvtig/RocketLauncher/blob/main/Assets/Tvtig/Rocket%20Launcher/Art/Textures/Explosion/Explosion.tif
 
-burnt Metal: https://freepbr.com/materials/scorched-wood-charcoal-pbr-material/
+burnt Metal texture: https://freepbr.com/materials/scorched-wood-charcoal-pbr-material/
 
 tank sound: https://youtu.be/8UZCQmCcpoA
 
