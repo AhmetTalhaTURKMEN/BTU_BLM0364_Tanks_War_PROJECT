@@ -1,5 +1,8 @@
 # BTU_BLM0364_Tanks_War_PROJECT
 
+# DEVELOPER
+Ahmet Talha TURKMEN
+
 ## NASIL OYNANIR?
 
 Oyun vize projesi 2 kişilik tank oyunu
